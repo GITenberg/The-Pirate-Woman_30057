@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31663'
     url: http://www.gutenberg.org/2009/agents/31663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30057#The-Pirate-Woman
 gutenberg_issued: '2009-09-22'
 gutenberg_type: Text
 identifiers:
